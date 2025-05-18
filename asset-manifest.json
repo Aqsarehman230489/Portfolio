@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.d4554d00.css",
-    "main.js": "/Portfolio/static/js/main.2122e715.js",
+    "main.js": "/Portfolio/static/js/main.76fab299.js",
     "static/js/453.ace21015.chunk.js": "/Portfolio/static/js/453.ace21015.chunk.js",
     "static/media/about.png": "/Portfolio/static/media/about.cacf4681e259c911bfdc.png",
     "static/media/Dastkari-landing-Page.png": "/Portfolio/static/media/Dastkari-landing-Page.934ff6763c4aaebce630.png",
@@ -13,11 +13,11 @@
     "static/media/pre.svg": "/Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Portfolio/index.html",
     "main.d4554d00.css.map": "/Portfolio/static/css/main.d4554d00.css.map",
-    "main.2122e715.js.map": "/Portfolio/static/js/main.2122e715.js.map",
+    "main.76fab299.js.map": "/Portfolio/static/js/main.76fab299.js.map",
     "453.ace21015.chunk.js.map": "/Portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d4554d00.css",
-    "static/js/main.2122e715.js"
+    "static/js/main.76fab299.js"
   ]
 }

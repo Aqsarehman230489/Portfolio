@@ -11,7 +11,7 @@ const Blog = () => {
       id: 1,
   title: "From JS to C# : Exploring Full-Stack Web Dev with Blazor and .NET",
   description:
-    "Why I chose Blazor and .NET over JavaScript frameworks — and what I'm learning from it.",
+    "Why I chose Blazor and .NET over JavaScript frameworks and what I'm learning from it.",
   platform: "Hashnode",
   link: "https://aqsarehman.hashnode.dev/from-js-to-c-exploring-full-stack-web-dev-with-blazor-and-net",
   date: "May 2025",
@@ -44,7 +44,7 @@ const Blog = () => {
         <Particle />
       </div>
       <Container style={{ position: "relative", zIndex: 1, paddingTop: "80px" }}>
-        <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
+        <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" ,color: "#f0eaff"}}>
             My Blog Posts
             </h1>
         <Row>
@@ -59,7 +59,7 @@ const Blog = () => {
                     </div>
                     <small className="text-muted">{post.date}</small>
                   </div>
-                  <Card.Title>{post.title}</Card.Title>
+                  <Card.Title  className="card-title-light">{post.title}</Card.Title>
                   <Card.Text>{post.description}</Card.Text>
                   <Button
   className="glow-button"

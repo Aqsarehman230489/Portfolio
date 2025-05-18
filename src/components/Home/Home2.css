@@ -1,0 +1,86 @@
+.contact-container {
+  max-width: 500px;
+  margin: 40px auto;
+  padding: 30px;
+  background: #1e1e2f;
+  border-radius: 12px;
+  box-shadow: 0 0 20px rgba(147, 51, 234, 0.3);
+  color: #ffffff;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.form-heading {
+  text-align: center;
+  font-size: 2em;
+  margin-bottom: 25px;
+  color: #a855f7;
+}
+
+.contact-form label {
+  display: block;
+  margin: 15px 0 5px;
+  font-weight: 500;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  padding: 12px;
+  background: #111827;
+  border: 2px solid #6b21a8;
+  border-radius: 8px;
+  color: #fff;
+  transition: 0.3s ease;
+  outline: none;
+  box-shadow: 0 0 0px transparent;
+}
+
+.contact-form input:focus,
+.contact-form textarea:focus {
+  border-color: #a855f7;
+  box-shadow: 0 0 10px #a855f7;
+ background-color: #1e1e2f; 
+}
+
+.contact-form button {
+  margin-top: 20px;
+  padding: 12px 24px;
+  background: linear-gradient(to right, #9333ea, #6b21a8);
+  border: none;
+  color: #fff;
+  border-radius: 30px;
+  cursor: pointer;
+  transition: 0.3s ease;
+  font-weight: bold;
+  box-shadow: 0 0 10px #9333ea;
+}
+
+.contact-form button:hover {
+  box-shadow: 0 0 20px #c084fc;
+  transform: scale(1.03);
+}.success-message {
+  text-align: center;
+  font-size: 1.4em;
+  font-weight: bold;
+  color: #dc5eff;
+  padding: 30px;
+  background-color: #47365263;
+  border-radius: 12px;
+  text-shadow:
+    0 0 2px #dc5eff,
+    0 0 4px #a855f7;
+  animation: glowPulse 2s ease-in-out infinite alternate;
+}
+
+@keyframes glowPulse {
+  from {
+    text-shadow:
+      0 0 2px #dc5eff,
+      0 0 4px #a855f7;
+  }
+  to {
+    text-shadow:
+      0 0 1px #dc5eff,
+      0 0 2px #9333ea;
+  }
+}

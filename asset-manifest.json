@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.315ca68d.css",
-    "main.js": "/Portfolio/static/js/main.93949a80.js",
+    "main.css": "/Portfolio/static/css/main.d4554d00.css",
+    "main.js": "/Portfolio/static/js/main.2122e715.js",
     "static/js/453.ace21015.chunk.js": "/Portfolio/static/js/453.ace21015.chunk.js",
     "static/media/about.png": "/Portfolio/static/media/about.cacf4681e259c911bfdc.png",
     "static/media/Dastkari-landing-Page.png": "/Portfolio/static/media/Dastkari-landing-Page.934ff6763c4aaebce630.png",
@@ -10,14 +10,14 @@
     "static/media/dap.png": "/Portfolio/static/media/dap.b9e1d439098e76bff0e6.png",
     "static/media/Aqsa_Rehman_Resume.pdf": "/Portfolio/static/media/Aqsa_Rehman_Resume.79a6448db2526a13db85.pdf",
     "static/media/home-bg.jpg": "/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/pre.svg": "/Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "static/media/pre.svg": "/Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Portfolio/index.html",
-    "main.315ca68d.css.map": "/Portfolio/static/css/main.315ca68d.css.map",
-    "main.93949a80.js.map": "/Portfolio/static/js/main.93949a80.js.map",
+    "main.d4554d00.css.map": "/Portfolio/static/css/main.d4554d00.css.map",
+    "main.2122e715.js.map": "/Portfolio/static/js/main.2122e715.js.map",
     "453.ace21015.chunk.js.map": "/Portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.315ca68d.css",
-    "static/js/main.93949a80.js"
+    "static/css/main.d4554d00.css",
+    "static/js/main.2122e715.js"
   ]
 }

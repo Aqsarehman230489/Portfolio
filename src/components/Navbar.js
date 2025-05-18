@@ -35,7 +35,7 @@ function NavBar() {
     >
       <Container>
 
-        <Navbar.Brand href="/" className="d-flex">
+        <Navbar.Brand href="/Home" className="d-flex">
   <span style={{
     fontFamily: 'Poppins, sans-serif',
     fontSize: '1.8rem',

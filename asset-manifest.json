@@ -1,23 +1,24 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.d4554d00.css",
-    "main.js": "/Portfolio/static/js/main.a4c63f02.js",
+    "main.js": "/Portfolio/static/js/main.41837e4d.js",
     "static/js/453.ace21015.chunk.js": "/Portfolio/static/js/453.ace21015.chunk.js",
+    "static/media/Aqsa_Rehman_Resume.pdf": "/Portfolio/static/media/Aqsa_Rehman_Resume.2f0fd1809fd4b45b654d.pdf",
+    "static/media/.net-dastkari.png": "/Portfolio/static/media/.net-dastkari.6c3bc1aa58763a2e6d20.png",
     "static/media/about.png": "/Portfolio/static/media/about.cacf4681e259c911bfdc.png",
     "static/media/Dastkari-landing-Page.png": "/Portfolio/static/media/Dastkari-landing-Page.934ff6763c4aaebce630.png",
     "static/media/home-main.png": "/Portfolio/static/media/home-main.21df18aa8da1fef0051b.png",
     "static/media/celestial_cuisine.png": "/Portfolio/static/media/celestial_cuisine.eb54948d1bdd86758d1e.png",
     "static/media/dap.png": "/Portfolio/static/media/dap.b9e1d439098e76bff0e6.png",
-    "static/media/Aqsa_Rehman_Resume.pdf": "/Portfolio/static/media/Aqsa_Rehman_Resume.a06673a6ecd3e8433bca.pdf",
     "static/media/home-bg.jpg": "/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/pre.svg": "/Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Portfolio/index.html",
     "main.d4554d00.css.map": "/Portfolio/static/css/main.d4554d00.css.map",
-    "main.a4c63f02.js.map": "/Portfolio/static/js/main.a4c63f02.js.map",
+    "main.41837e4d.js.map": "/Portfolio/static/js/main.41837e4d.js.map",
     "453.ace21015.chunk.js.map": "/Portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d4554d00.css",
-    "static/js/main.a4c63f02.js"
+    "static/js/main.41837e4d.js"
   ]
 }

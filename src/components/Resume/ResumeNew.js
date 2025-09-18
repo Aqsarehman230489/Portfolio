@@ -27,14 +27,15 @@ function ResumeNew() {
         <Particle />
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
-            variant="primary"
-            href={pdf}
-            target="_blank"
-            style={{ maxWidth: "250px" }}
-          >
-            <AiOutlineDownload />
-            &nbsp;Download
-          </Button>
+  variant="primary"
+  href={pdf}
+  download="Aqsa_Rehman_Resume.pdf"
+  style={{ maxWidth: "250px" }}
+>
+  <AiOutlineDownload />
+  &nbsp;Download
+</Button>
+
         </Row>
 
         <Row className="justify-content-center mt-4">
@@ -56,14 +57,15 @@ function ResumeNew() {
 
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
-            variant="primary"
-            href={pdf}
-            target="_blank"
-            style={{ maxWidth: "250px" }}
-          >
-            <AiOutlineDownload />
-            &nbsp;Download
-          </Button>
+  variant="primary"
+  href={pdf}
+  download="Aqsa_Rehman_Resume.pdf"
+  style={{ maxWidth: "250px" }}
+>
+  <AiOutlineDownload />
+  &nbsp;Download
+</Button>
+
         </Row>
       </Container>
     </div>

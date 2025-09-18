@@ -11,29 +11,18 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Aqsa Rehman </span>
             from <span className="purple"> Islamabad, Pakistan</span>
             <br />
-            I am currently pursuing an Associate Degree in Computer Science from Air University Islamabad Campus.
+           I am currently pursuing a Bachelor of Science in Computer Science (BSCS) degree from Air University, Islamabad Campus.
             <br />
-            I’m passionate about <strong>web development, cloud computing, and DevOps</strong>.
+            I’m passionate about <strong> cloud computing, and DevOps</strong>.
             <br />
             <br />
-            Apart from coding, here are a few activities I enjoy:
+            
           </p>
-          <ul>
-            <li className="about-activity">
-              <ImPointRight /> Painting
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Digital Designing
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Travelling
-            </li>
-          </ul>
-
+         
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Driven by curiosity, I build, learn, and share to inspire growth and make an impact."{" "}
+            "Passionate about making software delivery faster, smoother, and more reliable by leveraging modern DevOps workflows and AI-powered tools."{" "}
           </p>
-          <footer className="blockquote-footer">Aqsa</footer>
+          
         </blockquote>
       </Card.Body>
     </Card>

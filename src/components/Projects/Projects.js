@@ -5,6 +5,7 @@ import Particle from "../Particle";
 import celestial_cuisine from "../../Assets/Projects/celestial_cuisine.png";
 import dap from "../../Assets/Projects/dap.png";
 import Dastkari from "../../Assets/Projects/Dastkari-landing-Page.png";
+import dotnet from "../../Assets/Projects/.net-dastkari.png";
 
 function Projects() {
   return (
@@ -22,7 +23,7 @@ function Projects() {
             <ProjectCard
               imgPath={dap}
               isBlog={false}
-              title="Admin Dashboard"
+              title=".Net CRUD Admin Dashboard"
               description="A small admin dashboard, built using Blazor and Entity Framework. This project includes features for user authentication and CRUD operations to manage products efficiently. Designed for learning and showcasing practical implementation of .NET technologies in a real-world artisan marketplace context."
               ghLink="https://github.com/Aqsarehman230489/Blazor-EF-Project"
             />
@@ -32,7 +33,7 @@ function Projects() {
             <ProjectCard
               imgPath={Dastkari}
               isBlog={false}
-              title="Dastkari Frontend"
+              title="React Frontend"
               description="Dastkari is a beautifully designed, fully responsive frontend web application built with React.js. It features a modern landing page with smooth scrolling navigation, user-friendly login and registration UI, and dynamic rendering of painting products using mock API data. The design highlights local Pakistani artisans and product showcasing."
               ghLink="https://github.com/Aqsarehman230489/Dastkari-Frontend"
               demoLink="https://aqsarehman230489.github.io/Dastkari-Frontend/"
@@ -43,12 +44,24 @@ function Projects() {
             <ProjectCard
               imgPath={celestial_cuisine}
               isBlog={false}
-              title="Celestial Cusine"
-              description="A dynamic and responsive restaurant website developed as a 2nd semester Web Technologies project. It offers users a seamless dining experience with features like an interactive menu, online table reservations, and registration. Built using HTML, CSS, Bootstrap, JavaScript, PHP, and MySQL, the project showcases full-stack development skills and local server setup using XAMPP."
+              title="website Frontend"
+              description="Celestial Cusine a dynamic and responsive restaurant website developed as a 2nd semester Web Technologies project. It offers users a seamless dining experience with features like an interactive menu, online table reservations, and registration. Built using HTML, CSS, Bootstrap, JavaScript, PHP, and MySQL, the project showcases full-stack development skills and local server setup using XAMPP."
               ghLink="https://github.com/Aqsarehman230489/Restaurant-Website-Project"              
             />
           </Col>
         </Row>
+        <Row className="justify-content-center">
+  <Col md={4} className="project-card">
+    <ProjectCard
+      imgPath={dotnet}
+      isBlog={false}
+      title=".Net E-commerce"
+      description="Dastkari is a collaborative artisan marketplace platform built with ASP.NET Core and Blazor. It empowers Pakistani artisans to sell handmade products, host events, manage public profiles, and showcase cultural heritage. Key integrations include Google OAuth for authentication, Stripe for secure payments, Chart.js for analytics, and Tidio chatbot for real-time support. Database communication is implemented with SQL Server and ADO.NET."
+      ghLink="https://github.com/Aqsarehman230489/Dastkari"
+    />
+  </Col>
+</Row>
+
       </Container>
     </Container>
   );
